@@ -35,10 +35,12 @@ Open http://127.0.0.1:5000/ in your browser.
 
 On running the app.py file if nothing happens try this:
 
-Step 1: 
+Step 1:
+<br>
 Install Required Packages : pip install flask-session
 
 Step 2:
+<br>
 set FLASK_APP=app.py
 
 set FLASK_ENV=development
