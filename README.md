@@ -31,3 +31,13 @@ Deploying an AI-powered application for seamless online access.
 ⚙️ Technologies & Tools:
 Python | Scikit-learn | Pandas | NLP | Flask / Streamlit | HTML/CSS | Machine Learning
 
+Open http://127.0.0.1:5000/ in your browser.
+
+On running the app.py file if nothing happens try this:
+
+set FLASK_APP=app.py
+
+set FLASK_ENV=development
+
+flask run
+
