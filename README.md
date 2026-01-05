@@ -1,4 +1,4 @@
-# AI-Healthcare-Chatbot
+# AI-NLP-Healthcare-Chatbot
 This is my first Repository.
 <br>
 Author - Rohan Dhar
